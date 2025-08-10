@@ -60,5 +60,5 @@ Este projeto está sob a licença MIT.
 ---
 
 <div align="center">
-  Feito com ❤️ por [Seu Nome]
+  Feito com ❤️ por Gabriel Azevedo
 </div>
